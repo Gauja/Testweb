@@ -1,0 +1,19 @@
+body {
+  background-color:darkseagreen;
+}
+h1 {
+  color:aqua;
+  font-size: 369%;
+}
+p {
+  color:mediumblue;
+  font-size: 180%;
+}
+ul {
+    color:darkviolet;
+    font-size: 200%;
+}
+table {
+    color:brown;
+    font-size: 230%;      
+}
